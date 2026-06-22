@@ -5,3 +5,4 @@ TRUSTED_FOLDERS = [
     r"D:\A_nemoclow_openclow_setup",
     r"D:\PROFILE"
 ]
+#this is file is for protected use that mean you add the file location that you want to give a permation to this agent 
